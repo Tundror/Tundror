@@ -1,6 +1,6 @@
 
 ![dU18gto](https://github.com/Tundror/Tundror/assets/89937349/d5bb4af8-f335-4b21-bb34-22bb837a0fe7)
-### Hello World! 👋 Sou o Maurício, Desenvolvedor Full Stack
+# Hello World! 👋 Sou o Maurício, Desenvolvedor Full Stack
 
 Entrei na UNESP para o curso de Engenharia de Controle e Automação, e acabei me apaixonando pela área de programação. Entrei na Driven Education para alimentar essa paixão, e me tornei um Full-Stack Developer.
 
