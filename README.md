@@ -14,7 +14,7 @@ Dentro da Driven, já realizei mais de 20 projetos práticos, sendo eles tanto s
 
 Uma curiosidade sobre mim é que aprendi a falar inglês junto com português, por isso tenho bastante facilidade com o idioma. Também tive curiosidade de aprender Japones, e tirei um certificado de proficiência. Um hobby que amo muito: videogames!
 
-Se quiser saber mais sobre mim estou disponível para contato por aqui, ou através do e-mail mauriciodesouzaecastro@gmail.com. Meus projetos estão disponíveis aqui mesmo, no Github.
+Se quiser saber mais sobre mim estou disponível para contato pelo Linkedin, ou através do e-mail mauriciodesouzaecastro@gmail.com. Meus projetos estão disponíveis aqui mesmo, no Github.
 <!--
 **Tundror/Tundror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
