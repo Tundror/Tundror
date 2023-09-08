@@ -3,8 +3,11 @@
 Entrei na UNESP para o curso de Engenharia de Controle e Automação, e acabei me apaixonando pela área de programação. Entrei na Driven Education para alimentar essa paixão, e me tornei um Full-Stack Developer.
 
 Minhas principais competências técnicas são:
+
 -Front-end: Javascript, React, Styled-components, CSS, HTML
+
 -Back-end: Node.js, REST API, Typescript, Express, Jest, Prisma
+
 -Banco de dados: SQL, PostgresSQL, MongoDB
 
 Dentro da Driven, já realizei mais de 20 projetos práticos, sendo eles tanto separados em Front-end e Back-end, quanto Full stack. Esses projetos são em sua maioria individuais, mas também fiz vários em equipe.
