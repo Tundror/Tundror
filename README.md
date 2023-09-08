@@ -8,7 +8,7 @@ Minhas principais competências técnicas são:
 
 -Front-end: Javascript, React, Styled-components, CSS, HTML
 
--Back-end: Node.js, REST API, Typescript, Express, Jest, Prisma
+-Back-end: Node.js, REST API, Typescript, Express, Jest, Prisma, Nest
 
 -Banco de dados: SQL, PostgresSQL, MongoDB
 
