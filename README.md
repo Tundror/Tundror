@@ -6,7 +6,7 @@
 
 Minhas principais tecnlogias são:
 
--Front-end: Javascript, React, Styled-components, CSS, HTML https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
+-Front-end: Javascript, React, Styled-components, CSS, HTML
 
 -Back-end: Node.js, REST API, Typescript, Express, Jest, Prisma, Nest
 
