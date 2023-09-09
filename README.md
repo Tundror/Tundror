@@ -4,9 +4,9 @@
 
 🌱 Entrei na UNESP para o curso de Engenharia de Controle e Automação, e acabei me apaixonando pela área de programação. Entrei na Driven Education para alimentar essa paixão, e me tornei um Full-Stack Developer.
 
-Minhas principais competências técnicas são:
+Minhas principais tecnlogias são:
 
--Front-end: Javascript, React, Styled-components, CSS, HTML
+-Front-end: Javascript, React, Styled-components, CSS, HTML https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
 
 -Back-end: Node.js, REST API, Typescript, Express, Jest, Prisma, Nest
 
