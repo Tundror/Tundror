@@ -34,7 +34,7 @@ Minhas principais tecnlogias são:
 
 🔭 Dentro da Driven, já realizei mais de 20 projetos práticos, sendo eles tanto separados em Front-end e Back-end, quanto Full stack. Esses projetos são em sua maioria individuais, mas também fiz vários em equipe.
 
-💬 Uma curiosidade sobre mim é que aprendi a falar inglês junto com português, por isso tenho bastante facilidade com o idioma. Também tive curiosidade de aprender Japones, e tirei um certificado de proficiência. Um hobby que amo muito: videogames! 🎮
+💬 Curiosidades sobre mim: aprendi a falar inglês junto com português, por isso tenho bastante facilidade com o idioma. Também tive curiosidade de aprender Japones, e tirei um certificado de proficiência. Um hobby que amo muito: videogames! 🎮
 
 📫 Se quiser saber mais sobre mim estou disponível para contato pelo Linkedin, ou através do e-mail mauriciodesouzaecastro@gmail.com. Meus projetos estão disponíveis aqui mesmo, no Github.
 
